@@ -12,7 +12,7 @@ This repository contains all of the data and code needed to reproduce the analys
 
 3. CSV files:
   * [2x2grid.csv](2x2grid.csv), [5x5grid.csv](5x5grid.csv), [10x10grid.csv](10x10grid.csv) -- these contain the WKT (well-known text) form of the grid polygons at indicated resolution, for ease of import into the database.
-  * [climate_zones.csv](climate_zones.csv) -- this contains the polygons corresponding to Koerper-Geiger climate boundaries.
+  * [climate_zones.csv](climate_zones.csv) -- this contains the polygons corresponding to Koeppen-Geiger climate boundaries.
   * [tavg_qca_final.csv](tavg_qca_final.csv) -- this contains the munged GHCN average temperature data
   * [locations_final.csv](locations.csv) -- this contains the weather stations and their locations and attributes
   * [yrly_grid_avgs.csv](yrly_grid_avgs.csv) -- this contains temperatures averaged over the 5x5 grid
