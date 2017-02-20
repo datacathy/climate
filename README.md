@@ -11,7 +11,7 @@ This repository contains all of the data and code needed to reproduce the analys
 2. [GHCN_analysis.pdf](GHCN_analysis.pdf) -- this is a sketch of my prior analysis.
 
 3. CSV files:
-  * [2x2grid.csv](2x2grid.csv), [5x5grid.csv](5x5grid.csv), [10x10grid.csv](10x10grid.csv) -- these contain the WKT (well-known text) form of the grid polygons at indicated resolution, for ease of import into the database.
+  * [5x5grid.csv](5x5grid.csv) -- this contains the WKT (well-known text) form of the grid polygons
   * [climate_zones.csv](climate_zones.csv) -- this contains the polygons corresponding to Koeppen-Geiger climate boundaries.
   * [tavg_qca_final.csv](tavg_qca_final.csv) -- this contains the munged GHCN average temperature data
   * [locations_final.csv](locations.csv) -- this contains the weather stations and their locations and attributes
