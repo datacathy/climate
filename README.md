@@ -44,3 +44,5 @@ This repository contains all of the data and code needed to reproduce the analys
   
 8. Zip file:
   * [ghcn1.zip](ghcnq.zip) -- all the input files the python script [ghcn1.ipynb](ghcn1.ipynb) needs (shapefiles, etc)
+
+[[1]] Jay H. Lawrimore, Matthew J. Menne, Byron E. Gleason, Claude N. Williams, David B. Wuertz, Russell S. Vose, and Jared Rennie (2011): Global Historical Climatology Network - Monthly (GHCN-M), Version 3. Average Temperatures. NOAA National Centers for Environmental Information. doi:10.7289/V5X34VDR 01/22/2017.
