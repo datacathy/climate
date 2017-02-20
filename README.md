@@ -27,7 +27,7 @@ This repository contains all of the data and code needed to reproduce the analys
   * [qcu_analysis.png](qcu_analysis.png) -- the original analysis from the GHCN_analysis.pdf methods
   * [multigraph_NOAAland.png](multigraph_NOAAland.png) -- the NOAA Climate at a Glance plot I set out to reproduce
   * [station_locations_kav7.png](station_locations_kav7.png) -- station locations and 5x5 grid illustrated
-  * [climate_grid.png](climate_grid.png) -- climate grid illustrated
+  * [climate_grid_vibrant.png](climate_grid_vibrant.png) -- climate grid illustrated
   
 5. SQL files:
   * [yrly_grid_avgs.sql](yrly_grid_avgs.sql) -- sql to initialize database and create [yrly_grid_avgs.csv](yrly_grid_avgs.csv)
